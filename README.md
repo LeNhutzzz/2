@@ -394,7 +394,7 @@
                 text: "Chúc bạn luôn vui vẻ, xinh đẹp và ngập tràn yêu thương!" //Thay lời nhắn
             },
                {
-                img: "./assets/a1.jpg",
+                img: "./assets/03.jpg",
                 text: "Chúc bạn luôn được yêu thương, tôn trọng và hạnh phúc – không chỉ hôm nay mà cả 364 ngày còn lại. "
             },
             {
@@ -402,7 +402,7 @@
                 text: "20/10, chúc bạn “xinh lên level mới”, “giàu sang lên bậc cao” và “hạnh phúc max ping”!"
             },
             {
-                img: "./assets/a2.jpg",
+                img: "./assets/04.jpg",
                 text: "20/10 vui vẻ nha bạn, chúc bạn đẹp hơn hoa và chill hơn mọi ngày 🌷"
             },
             {
@@ -410,7 +410,7 @@
                 text: "Ngày đặc biệt của phái đẹp, chúc bạn là người hạnh phúc nhất hôm nay 🌸"
             },
             {
-                img: "./assets/a3.jpg",
+                img: "./assets/06.jpg",
                 text: "20/10 chúc bạn thân luôn mạnh mẽ, sống vui và theo đuổi điều mình yêu thích nhé!"
             },
             {
@@ -418,7 +418,7 @@
                 text: "Chúc bạn một ngày 20/10 thật hạnh phúc và trọn vẹn! "
             },
             {
-                img: "./assets/a4.jpg",
+                img: "./assets/02.jpg",
                 text: "Chúc bạn lúc nào cũng tự tin, cười tươi và gặp toàn người tốt bụng 🥰 "
             },
             {
@@ -426,7 +426,7 @@
                 text: "20/10 chúc bạn mọi điều tốt đẹp – cười nhiều, yêu nhiều và sống thật vui nhé 💖 "
             },
             {
-                img: "./assets/a5.jpg",
+                img: "./assets/01.jpg",
                 text: "20/10 chúc bạn vui như được nghỉ học, cười nhiều như đang xem meme của tui gửi 😆"
             }
         ];
